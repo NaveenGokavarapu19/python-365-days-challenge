@@ -1,3 +1,7 @@
+'''
+Write a program to read and print values of variables pf differnet data types
+'''
+
 num = int(input("Enter the value of num: "))
 amt = float(input("Enter the value of amt: "))
 pi = float(input("Enter the value of pi: "))
