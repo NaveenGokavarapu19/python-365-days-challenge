@@ -2,8 +2,8 @@
 Program to demonstrate all arithmetic operations  on two integers
 '''
 
-num1 = input("Enter the first number: ")
-num2 = input("Enter the second number: ")
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
 
 add_res = num1 + num2
 sub_res = num1 - num2
