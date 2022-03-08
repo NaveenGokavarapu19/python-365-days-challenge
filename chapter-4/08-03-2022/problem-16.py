@@ -15,3 +15,4 @@ while(i<=10):
 avg = float(s)/10
 print("The sum of first 10 numbers is :",s)
 print("The average of first 10 numbers is: ",avg)
+
