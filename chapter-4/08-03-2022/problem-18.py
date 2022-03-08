@@ -1,11 +1,13 @@
 '''
-program to print 20 horizontal asterisks.
+program to calculate the sum of numbers from m to n.
 
 '''
-i = 1 
-while (i<=20):
-    print("*",end="")
-    i = i + 1
 
-print("\n")
+m = int(input("Enter the value of m: "))
+n = int(input("Enter the value of n: "))
 
+s = 0
+while(m<=n):
+    s = s+m
+    m = m+1
+print("SUM = ",s)
