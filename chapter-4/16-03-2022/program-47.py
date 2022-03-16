@@ -1,6 +1,12 @@
 '''
 program to print the following pattern mentioned in docstrings. 
 
+*
+**
+***
+****
+*****
+
 '''
 
 for i in range(1,6):
